@@ -1,5 +1,7 @@
 # Frontend Mentor - Stats preview card component
 
+file:///C:/Users/Owner/Desktop/stats-preview-card-component-main/index.html
+
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
